@@ -1,0 +1,6 @@
+com\utng\chainofresponsability\ChainOfResponsability.class
+com\utng\chainofresponsability\request.class
+com\utng\chainofresponsability\redHandler.class
+com\utng\chainofresponsability\greenHandler.class
+com\utng\chainofresponsability\Handler.class
+com\utng\chainofresponsability\blueHandler.class
